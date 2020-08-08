@@ -26,7 +26,7 @@ For a class with inherited class:
     
     class MyClass(InheritedClass):
     
-		#Description
+	    #Description
 	    def myOtherFunc(arg1=None):
 
 ### Usage
